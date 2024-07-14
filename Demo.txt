@@ -1,0 +1,6 @@
+open git bash Terminal
+conda info --envs
+conda activate VS/conda create -n Name python=3.11-y
+pip install -r requirements.txt
+set GROQ_API_KEY=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
+streamlit run app.py
